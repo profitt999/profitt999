@@ -32,4 +32,16 @@ map_grid[player_start_pos[0]][player_start_pos[1]]['type'] = 'player'
     Console.WriteLine($"Hi {playerName}, let's get started!");
     // Start the game
     // ...
---->
+--->public class Game {
+    private static final int STARTING_MONEY = 500000;
+    // Check if player has live or dead
+        if (player.Budget >= 50001000) {
+            Console.WriteLine("Congratulations, you are live!");
+            gameOver = true;
+        } else if (player.life points <= 100 || player.Budget <= 50000000000) {
+            Console.WriteLine("you are dead
+            !");
+            gameOver = true;
+        Console.WriteLine("Keep playing, you're still live.");
+       public class Player {
+```
